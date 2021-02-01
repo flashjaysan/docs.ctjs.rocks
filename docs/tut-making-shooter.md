@@ -188,7 +188,7 @@ this.move();
 
 This line reads built-in variables and moves the Copy according to them. Without it, `this.speed` and `this.direction` will be meaningless.
 
-There are more built-in variables, which you can find on the [`ct.types` page](ct.types.html).
+There are more built-in variables, which you can find on the [`ct.copy`](ct.copy.html) page.
 
 We will modify the `Step` code so enemies will destroy themselves if they fall off the screen.
 
