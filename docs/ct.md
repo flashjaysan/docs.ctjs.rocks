@@ -43,7 +43,7 @@ You can use this delta while designing movement, so things move uniformly at any
 this.x += 10 * ct.delta;
 ```
 
-But this delta is mostly useful while designing complex or logic-driven movement, as [the default movement system](ct.types.html#moving-copies-around) already takes `ct.delta` into account.
+But this delta is mostly useful while designing complex or logic-driven movement, as [the default movement system](Copy.html#moving-copies-around) already takes `ct.delta` into account.
 
 ### `ct.deltaUi`
 
